@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Gamja+Flower:regular);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower:regular);
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter:regular);
+
+*{
+    color: #ededed;
+}
+header{
+    font-family: "Gamja Flower";
+    font-size: 4vw;
+}
+.tabla{
+    font-family: "Indie Flower";
+    font-size: 4vw;
+}
+.texto #roar{
+    text-align: center;
+    font-size: 4vw;
+}
+.texto{
+    font-size: 5vw;
+    font-family: "Architects Daughter";
+}
+footer p{
+    font-family: "Gamja Flower";
+    font-size: 5vw;
+}
